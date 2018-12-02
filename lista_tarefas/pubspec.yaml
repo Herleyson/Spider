@@ -12,6 +12,8 @@ dependencies:
   datetime_picker_formfield: ^0.1.7
   intro_views_flutter: ^2.4.0
   shared_preferences: ^0.4.3
+  splashscreen: ^1.1.0
+
 
 
 
@@ -43,6 +45,7 @@ flutter:
     - Images/spider5.jpeg
     - Images/agenda.png
     - Images/stan.jpg
+
 
 
   # To add assets to your application, add an assets section, like this:
