@@ -10,6 +10,10 @@ dependencies:
   cupertino_icons: ^0.1.2
   path_provider: "^0.4.1"
   datetime_picker_formfield: ^0.1.7
+  intro_views_flutter: ^2.4.0
+  shared_preferences: ^0.4.3
+
+
 
 
 dev_dependencies:
@@ -38,6 +42,7 @@ flutter:
   assets:
     - Images/spider5.jpeg
     - Images/agenda.png
+    - Images/stan.jpg
 
 
   # To add assets to your application, add an assets section, like this:
